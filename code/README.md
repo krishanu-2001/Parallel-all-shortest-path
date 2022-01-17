@@ -1,7 +1,5 @@
 # COMMUNICATION AVOIDING ALL-PAIRS SHORTEST PATHS ALGORITHM FOR SPARSE GRAPHS
 
-## Paper link - https://dl.acm.org/doi/fullHtml/10.1145/3472456.3472524
-
 ## TEAM DETAILS:
 + Krishanu Saini  -  190001029
 + Kuldeep Singh  - 190001030
