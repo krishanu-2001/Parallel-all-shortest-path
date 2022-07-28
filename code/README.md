@@ -1,11 +1,5 @@
 # COMMUNICATION AVOIDING ALL-PAIRS SHORTEST PATHS ALGORITHM FOR SPARSE GRAPHS
 
-## TEAM DETAILS:
-+ Krishanu Saini  -  190001029
-+ Kuldeep Singh  - 190001030
-+ Rahul Kumar  -  190001049
-+ Keren Tudu   -   190001023
-
 ## INSTRUCTIONS TO RUN THE CODE:
 1. Download all the files in your operating system and run the files in any text editor
 2. First run the classicFW.c code 
