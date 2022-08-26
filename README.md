@@ -3,7 +3,7 @@
 ## Introduction
 The All Source Shortest Path problem, initially solved by Floyd-Warshall algorithm is a variation of matrix multiplication problem.  
 This problem emerges in the field of computer network topology, architechture and biological networks. Utilizing novel algorithms like strassen matrix multiplication, 2.5D approaches one can improve the efficiency and speedup.  
-Bandwidth and latency cost is the major scope of optimization for this parallel program. In this implementation we provide an architecture for sparse networks using state of the art research techniques.
+Bandwidth and latency cost is the major scope of optimization for this parallel program. In this implementation we implement an architecture for sparse networks using state of the art research and we try to improve the result using novel mathematical methods.
 
 ## INSTRUCTIONS TO RUN THE CODE:
 1. Download all the files in your operating system and run the files in any text editor
