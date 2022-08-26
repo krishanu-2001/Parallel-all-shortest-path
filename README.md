@@ -18,6 +18,15 @@ Bandwidth and latency cost is the major scope of optimization for this parallel 
 8. Run improvement.cpp code to check if improvement of algorithm can be applied
 9. Run test.py code to test the efficiency of our algorithm
 
+## Results
+
+<img width="640" alt="image" src="https://user-images.githubusercontent.com/56930593/186966534-d68a50ba-2fdb-4994-a16a-b1f53412b1e3.png">
+
+Elimination tree and nested dissection to direct parallelism.
+
+![image](https://user-images.githubusercontent.com/56930593/186966867-49355167-7512-45f0-a2d1-9bbe5d585221.png)
+
+
 ## Contribute
 First of all, thanks for your contribution! Every small bit of it counts! You can:
 
@@ -25,6 +34,12 @@ First of all, thanks for your contribution! Every small bit of it counts! You ca
 2. Fork the repo, make changes, and submit a pull request, describing the changes made.
 3. Discuss new approaches and use cases with the community.
 4. Do star the repo if you like it!
+
+## Credits
+Images and useful definition taken from
+1. Wikipedia
+2. Lin Zhu, Qiang-Sheng Hua, and Hai Jin. 2021. Communication Avoiding All-Pairs Shortest Paths Algorithm for Sparse Graphs. In 50th International Conference on Parallel Processing (ICPP '21), August 9–12, 2021, Lemont, IL, USA. ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3472456.3472524
+3. https://solomonik.cs.illinois.edu/talks/siam-ala-2012.pdf
 
 ## REFRENCES:
 1. Lin Zhu, Qiang-Sheng Hua, and Hai Jin. 2021. Communication Avoiding All-Pairs Shortest Paths Algorithm for Sparse Graphs. In 50th International Conference on Parallel Processing (ICPP '21), August 9–12, 2021, Lemont, IL, USA. ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3472456.3472524
